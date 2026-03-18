@@ -63,11 +63,11 @@ The focus is on identifying, diagnosing, and resolving issues commonly found in 
 ## Repository Structure
 
 
-01_labs/ # Raw experiments and breakdowns
-02_case_studies/ # Structured case studies
-03_blog/ # Technical articles
-04_social/ # Content snippets
-05_assets/ # Screenshots, logs
+- 01_labs/ # Raw experiments and breakdowns
+- 02_case_studies/ # Structured case studies
+- 03_blog/ # Technical articles
+- 04_social/ # Content snippets
+- 05_assets/ # Screenshots, logs
 
 
 ---
